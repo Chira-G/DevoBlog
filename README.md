@@ -1,1 +1,2 @@
 # DevoBlog
+A blogging website.
